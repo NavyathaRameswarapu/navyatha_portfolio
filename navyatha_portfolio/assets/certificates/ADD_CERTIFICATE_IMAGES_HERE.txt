@@ -1,0 +1,5 @@
+Certificate images used by the portfolio flip cards:
+- futurelearn-ai.png
+- swayam-python.png
+- ey-microsoft-ai.png
+Click/tap a certificate card to flip it and view the image; click again to return.

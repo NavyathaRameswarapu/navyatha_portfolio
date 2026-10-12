@@ -1,0 +1,1 @@
+Project GitHub URLs supplied by Navyatha:\n1. https://github.com/NavyathaRameswarapu/AI_CAREER_GUIDE\n2. https://github.com/NavyathaRameswarapu/AI-INTERVIEW-TRAINER\n3. https://github.com/NavyathaRameswarapu/book_a_doctor\n4. https://github.com/NavyathaRameswarapu/AI_E-Commerce_Recommendation_System\n\nPlease test all four View on GitHub buttons after opening index.html.\n

@@ -1,0 +1,1 @@
+Add profile.jpg and resume.pdf here. Certificate images go in certificates/. See README.txt.
